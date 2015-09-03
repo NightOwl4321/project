@@ -11,7 +11,9 @@ public class AnemalllHipstair {
 		
 		// Person  favorite amial, perons friends, compare animal to friends animal
 		
-		for(String s: network) {
+		for(ArrayList<String> s: network.values()) {
+			String favAnimal = network.get(s);
+			if(favAnimal =)
 			
 		}
 		return null;
